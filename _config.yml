@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://joquevedo.github.io
+title: joquevedo
+tagline: Writing to (not) get mad
+description: My awesome new site
+paginate: 5
